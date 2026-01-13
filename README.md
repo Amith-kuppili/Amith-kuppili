@@ -18,7 +18,7 @@
 - 🤝 **Looking for help with:** Scaling ML Models and Deployment  
 - 💬 **Ask me about:** React, MERN stack, IoT, ML deployment, Cloud  
 - 👨‍💻 **Portfolio:** [amithkuppili.vercel.app](#) *(replace with your real link when ready)*  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1X5Kgx6ZZ_0hdKIs7ISlGjQFuU9HQLsu4/view?usp=sharing)  
+- 📄 **Resume:** [View Here](file:///C:/Users/amith/Downloads/Amith_resume1.pdf)  
 - ⚡ **Fun fact:** I explain code to a rubber duck 🦆 (works 10/10 times!)  
 
 ---
