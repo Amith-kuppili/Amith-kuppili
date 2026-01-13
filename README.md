@@ -26,13 +26,12 @@
 ### 🌐 Dynamic Socials
 <p align="center">
   <a href="https://amithkuppili.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-@your_instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/X-%40your_twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/k-amith-91162b349" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-@amith_rockzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+   <a href="https://linkedin.com/in/k-amith-91162b349" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=your_github_username&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub Widget" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Amith-kuppili&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub Widget" />
 </div>
 
 ---
