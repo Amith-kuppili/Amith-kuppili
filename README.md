@@ -17,8 +17,8 @@
 - 👯 **Collaborating on:** Character-Level GPT Language Model using PyTorch  
 - 🤝 **Looking for help with:** Scaling ML Models and Deployment  
 - 💬 **Ask me about:** React, MERN stack, IoT, ML deployment, Cloud  
-- 👨‍💻 **Portfolio:** [amithkuppili.vercel.app](#) *(replace with your real link when ready)*  
-- 📄 **Resume:** [View Here](file:///C:/Users/amith/Downloads/Amith_resume1.pdf)  
+- 👨‍💻 **Portfolio:** [amithkuppili.vercel.app](https://amithkuppili.vercel.app/) *(replace with your real link when ready)*  
+- 📄 **Resume:** [View Here](https://docs.google.com/document/d/1SJmUNPN2xtOZQHyg1DalvKN8R8QY4HY4NYskfgXeuI8/edit?usp=drive_link)  
 - ⚡ **Fun fact:** I explain code to a rubber duck 🦆 (works 10/10 times!)  
 
 ---
